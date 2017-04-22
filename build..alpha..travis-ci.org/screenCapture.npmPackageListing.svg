@@ -1,0 +1,62 @@
+<svg height="942" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="942" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 14:41:55 +0000   267668 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 14:41:55 +0000    31477 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 14:41:55 +0000     8904 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 14:41:55 +0000     4140 bytes  lib/index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 14:41:55 +0000     2039 bytes  lib/rules/callback-binding.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 14:41:55 +0000     2309 bytes  lib/rules/chain-style.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 14:41:55 +0000     2754 bytes  lib/rules/chaining.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 14:41:55 +0000     2534 bytes  lib/rules/collection-method-value.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 14:41:55 +0000     2410 bytes  lib/rules/collection-return.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 14:41:55 +0000     1576 bytes  lib/rules/consistent-compose.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 14:41:55 +0000     2180 bytes  lib/rules/identity-shorthand.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 14:41:55 +0000     3048 bytes  lib/rules/import-scope.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 14:41:55 +0000     2580 bytes  lib/rules/matches-prop-shorthand.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 14:41:55 +0000     4113 bytes  lib/rules/matches-shorthand.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 14:41:55 +0000     1285 bytes  lib/rules/no-commit.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 14:41:55 +0000     1930 bytes  lib/rules/no-double-unwrap.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 14:41:55 +0000     1637 bytes  lib/rules/no-extra-args.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 14:41:55 +0000     1909 bytes  lib/rules/no-single-chain.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-22 14:41:55 +0000     2411 bytes  lib/rules/no-unbound-this.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-22 14:41:55 +0000     4995 bytes  lib/rules/path-style.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-22 14:41:55 +0000     1649 bytes  lib/rules/prefer-chain.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-22 14:41:55 +0000     2246 bytes  lib/rules/prefer-compact.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-22 14:41:55 +0000     2545 bytes  lib/rules/prefer-constant.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-22 14:41:55 +0000     2669 bytes  lib/rules/prefer-filter.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-22 14:41:55 +0000     1641 bytes  lib/rules/prefer-flat-map.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-22 14:41:55 +0000     2199 bytes  lib/rules/prefer-get.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-22 14:41:55 +0000     1907 bytes  lib/rules/prefer-includes.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-22 14:41:55 +0000     1907 bytes  lib/rules/prefer-invoke-map.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-22 14:41:55 +0000     4024 bytes  lib/rules/prefer-is-nil.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-22 14:41:55 +0000     2371 bytes  lib/rules/prefer-lodash-chain.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-22 14:41:55 +0000     4555 bytes  lib/rules/prefer-lodash-method.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-22 14:41:55 +0000     2595 bytes  lib/rules/prefer-lodash-typecheck.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-22 14:41:55 +0000     1994 bytes  lib/rules/prefer-map.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-22 14:41:55 +0000     2311 bytes  lib/rules/prefer-matches.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-22 14:41:55 +0000      937 bytes  lib/rules/prefer-noop.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-22 14:41:55 +0000     3773 bytes  lib/rules/prefer-over-quantifier.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-22 14:41:55 +0000     2181 bytes  lib/rules/prefer-reject.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-22 14:41:55 +0000     1908 bytes  lib/rules/prefer-some.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-22 14:41:55 +0000      946 bytes  lib/rules/prefer-startswith.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-22 14:41:55 +0000     1201 bytes  lib/rules/prefer-thru.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-22 14:41:55 +0000     1089 bytes  lib/rules/prefer-times.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-22 14:41:55 +0000     1146 bytes  lib/rules/prefer-wrapper-method.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-22 14:41:55 +0000     1341 bytes  lib/rules/preferred-alias.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-22 14:41:55 +0000     1774 bytes  lib/rules/prop-shorthand.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-22 14:41:55 +0000     2035 bytes  lib/rules/unwrap.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-22 14:41:55 +0000     7401 bytes  lib/util/LodashContext.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-22 14:41:55 +0000    12345 bytes  lib/util/astUtil.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-22 14:41:55 +0000      696 bytes  lib/util/importUtil.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-22 14:41:55 +0000     6721 bytes  lib/util/lodashUtil.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-22 14:41:55 +0000    16469 bytes  lib/util/methodDataByVersion.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-22 14:41:55 +0000    26759 bytes  lib/util/methodDataByVersion/3.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-22 14:41:55 +0000    48497 bytes  lib/util/methodDataByVersion/4.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-22 14:41:55 +0000     1580 bytes  lib/util/methodDataByVersion/convert.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-22 14:41:55 +0000     5080 bytes  lib/util/methodDataUtil.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-22 14:41:55 +0000      620 bytes  lib/util/ruleUtil.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-22 14:41:55 +0000      919 bytes  lib/util/settingsUtil.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-22 14:41:55 +0000     3406 bytes  package.json</tspan>
+</text>
+</svg>
